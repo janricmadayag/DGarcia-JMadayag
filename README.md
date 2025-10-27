@@ -26,7 +26,7 @@ The system allows users to manage **students** and **sections**, including featu
 - 🎨 **Blade Templates** — Reusable and responsive UI.
 
 ---
-
+ 
 ## 🧰 Technologies Used
 
 | Technology | Description |
@@ -187,4 +187,4 @@ return new class extends Migration {
 | Name | Role | GitHub Branch |
 |------|------|----------------|
 | Janric Madayag | Developer / Documentation | `feature-branch` |
-| D. Garcia | Partner / Repository Owner | `main` |
+| D. Garcia | Partner / Repository Owner | `main` |  
