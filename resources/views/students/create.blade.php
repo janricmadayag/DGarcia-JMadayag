@@ -4,8 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Add New Student</title>
-        <p style="text-align:center; color:#555; font-size:14px; margin-bottom:20px;">
-    Please fill out the form below to register a new student.</p>
     <style>
         * { margin:0; padding:0; box-sizing:border-box; }
         body {
