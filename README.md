@@ -186,5 +186,5 @@ return new class extends Migration {
 
 | Name | Role | GitHub Branch |
 |------|------|----------------|
-| Janric Madayag | Developer / Repository Owner | `main` |
-| Denielle Gerald Garcia | Partner / Documentation | `feature-branch` |  
+| Janric Madayag | Repository Owner | `main` |
+| Denielle Gerald Garcia | Collaborator | `feature-branch` |  
